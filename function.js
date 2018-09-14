@@ -24,4 +24,11 @@ const tambah = ()=> {
   return hasil;
 }
 
-tambah()
+tambah();
+
+const kali = (x,y)=> {
+  var hasel = x * y;
+  console.log(hasel)
+}
+
+kali(9,2)
