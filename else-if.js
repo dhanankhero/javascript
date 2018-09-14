@@ -20,4 +20,8 @@ var funcRandom = function(x, y) {
   console.log(hasil);
 }
 
-funcRandom(10,5);
+function hurufBesar(tulisan){
+  var besar = tulisan.toUpperCase();
+  return besar
+}
+hurufBesar('halo');
