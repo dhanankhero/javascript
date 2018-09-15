@@ -6,5 +6,8 @@ if(true){
   var satu = 'siji';
   let dua = 'loro';
 }
-const tiga = 'tilu';
+// const tiga = 'tilu';
 console.log(tiga);
+
+// let satu = 'let satu';
+console.log("satu");
